@@ -22,9 +22,9 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/reshikino/lockpiking",
-  "manifest": "https://github.com/reshikino/lockpiking/releases/latest/download/module.json",
-  "download": "https://github.com/reshikino/lockpiking/releases/latest/download/module.zip",
+  "url": "https://github.com/reshikino/lockpicking",
+  "manifest": "https://github.com/reshikino/lockpicking/releases/latest/download/module.json",
+  "download": "https://github.com/reshikino/lockpicking/releases/latest/download/module.zip",
 
   "languages": [
     {
