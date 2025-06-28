@@ -1,14 +1,18 @@
 {
   "id": "lockpicking",
+  "socket":       true,
   "title": "Lockpicking",
   "description": "Adds lockpicking to the game for more player interaction.",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "13"
   },
+
   "esmodules": [
-    "scripts/main.js"
+    "scripts/main.js",
+    "scripts/locktypes/0.js",
+    "scripts/locktypes/1.js"
   ],
   "styles": [
     "styles/styles.css"
